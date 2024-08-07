@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\levan\\Desktop\\DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B88F180F-D949-47A8-8C0C-6C68415ACD1D}|DoAn\\DoAn.vcxproj|C:\\Users\\levan\\Desktop\\DoAn\\DoAn\\QuanLySach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B88F180F-D949-47A8-8C0C-6C68415ACD1D}|DoAn\\DoAn.vcxproj|solutionrelative:DoAn\\QuanLySach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88F180F-D949-47A8-8C0C-6C68415ACD1D}|DoAn\\DoAn.vcxproj|C:\\Users\\levan\\Desktop\\DoAn\\DoAn\\books.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B88F180F-D949-47A8-8C0C-6C68415ACD1D}|DoAn\\DoAn.vcxproj|solutionrelative:DoAn\\books.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "books.txt",
+              "DocumentMoniker": "C:\\Users\\levan\\Desktop\\DoAn\\DoAn\\books.txt",
+              "RelativeDocumentMoniker": "DoAn\\books.txt",
+              "ToolTip": "C:\\Users\\levan\\Desktop\\DoAn\\DoAn\\books.txt",
+              "RelativeToolTip": "DoAn\\books.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-07T09:59:03.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySach.cpp",
+              "DocumentMoniker": "C:\\Users\\levan\\Desktop\\DoAn\\DoAn\\QuanLySach.cpp",
+              "RelativeDocumentMoniker": "DoAn\\QuanLySach.cpp",
+              "ToolTip": "C:\\Users\\levan\\Desktop\\DoAn\\DoAn\\QuanLySach.cpp",
+              "RelativeToolTip": "DoAn\\QuanLySach.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAG8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T18:30:39.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

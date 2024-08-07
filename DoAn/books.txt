@@ -1,0 +1,90 @@
+B001
+The Great Gatsby
+F. Scott Fitzgerald
+Scribner
+1925
+Classic
+B002
+To Kill a Mockingbird
+Harper Lee
+J.B. Lippincott & Co.
+1960
+Fiction
+B003
+1984
+George Orwell
+Secker & Warburg
+1949
+Dystopian
+B004
+Pride and Prejudice
+Jane Austen
+T. Egerton
+1813
+Romance
+B005
+The Catcher in the Rye
+J.D. Salinger
+Little, Brown and Company
+1951
+Fiction
+B006
+The Hobbit
+J.R.R. Tolkien
+George Allen & Unwin
+1937
+Fantasy
+B007
+Moby-Dick
+Herman Melville
+Harper & Brothers
+1851
+Adventure
+B008
+War and Peace
+Leo Tolstoy
+The Russian Messenger
+1869
+Historical
+B009
+Crime and Punishment
+Fyodor Dostoevsky
+The Russian Messenger
+1866
+Psychological
+B010
+The Odyssey
+Homer
+Ancient Greece
+1988
+Epic
+B011
+Ulysses
+James Joyce
+Shakespeare and Company
+1922
+Modernist
+B012
+Brave New World
+Aldous Huxley
+Chatto & Windus
+1932
+Dystopian
+B013
+Jane Eyre
+Charlotte Bronte
+Smith, Elder & Co.
+1847
+Gothic
+B014
+The Divine Comedy
+Dante Alighieri
+Italy
+1320
+Epic
+B015
+The Brothers Karamazov
+Fyodor Dostoevsky
+The Russian Messenger
+1880
+Philosophical
